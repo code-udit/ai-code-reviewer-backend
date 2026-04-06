@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# VS Code settings
+.vscode/
+
+# Mac / system files
+.DS_Store
+
+# Logs
+*.log
+
+# Database files (if any local)
+*.sqlite3
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Migrations (optional if using Alembic)
+migrations/
