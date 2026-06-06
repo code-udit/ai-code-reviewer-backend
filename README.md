@@ -1,4 +1,8 @@
-🚀 AI Code Reviewer — Backend
+# AI Code Reviewer — Backend
+
+### 👨‍💻 Developed By
+
+**Udit U Gunagi**
 
 🧠 Overview
 
@@ -6,6 +10,19 @@ This backend is a production-style AI-powered Python code analysis engine built 
 It combines static analysis (AST), rule-based detection, and LLM-powered reasoning to deliver accurate, reliable, and structured code reviews.
 
 The system is designed with a fail-safe architecture to ensure zero broken outputs, even when AI responses are unreliable.
+
+---
+
+## 🔗 Links
+
+### 🌐 Live Demo
+https://ai-code-reviewer-frontend-pi.vercel.app
+
+### 💻 Frontend Repository
+https://github.com/your-username/ai-code-reviewer-frontend
+
+### ⚙️ Backend Repository
+https://github.com/your-username/ai-code-reviewer-backend
 
 ---
 
@@ -199,6 +216,12 @@ This backend can:
 - AI: OpenRouter (LLM)
 - Analysis: AST (Abstract Syntax Tree)
 - Database: PostgreSQL, SQLAlchemy
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Udit U Gunagi**
 
 ---
 
